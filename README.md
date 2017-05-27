@@ -1,3 +1,3 @@
 ## PyBlog
 
-> A blog system written in Python3.
+> Yet another blog system written in Python3.
